@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  
+  <!-- Rounded Base Card -->
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#grad)" filter="url(#shadow)"/>
+  
+  <!-- Notebook Sheet outline -->
+  <rect x="26" y="24" width="76" height="80" rx="8" fill="#ffffff" fill-opacity="0.12" stroke="#ffffff" stroke-width="3" stroke-dasharray="2 3"/>
+  
+  <!-- Quiz Checkmark -->
+  <path d="M42 66 L56 80 L88 46" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Sparkle badge in top right -->
+  <circle cx="94" cy="32" r="7" fill="#fbbf24"/>
+</svg>
+
