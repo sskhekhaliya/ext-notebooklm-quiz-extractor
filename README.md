@@ -1,6 +1,8 @@
 # 📚 NotebookLM Quiz Extractor
 
-Fast 1-click browser extension to extract quizzes from Google NotebookLM into clean, universal YAML, Python Dict, or JSON. Features instant in-page copying, nested code-block protection, and optional export for the [Obsidian Quiz Block](https://github.com/sskhekhaliya/obsidian-quiz-block) plugin.
+A fast 1-click browser extension developed by **[SSKhekhaliya](https://www.sskhekhaliya.in/)** to extract quizzes from **Google NotebookLM** into clean, universal **YAML**, **Python Dict**, or **JSON**. Features instant in-page copying, nested code-block protection, and optional export for the **[Obsidian Quiz Block](https://github.com/sskhekhaliya/obsidian-quiz-block)** plugin.
+
+[![Buy Me a Book](https://img.shields.io/badge/Buy%20Me%20a%20Book-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sskhekhaliya)
 
 <p align="center">
   <img src="./screenshots/popup-preview.png" alt="NotebookLM Quiz Extractor Preview" width="460">
@@ -48,3 +50,19 @@ To render extracted quizzes as interactive cards in your vault:
 - Enable the **`[ ] ````qblock`** toggle in the extension popup.
 - Paste the result into any Obsidian note.
 - Supports single-choice radio buttons, multi-select checkboxes, hints, option explanations, dynamic scoring, review mode, retake, and shuffle!
+
+---
+
+## ☕ Support
+
+If you find **NotebookLM Quiz Extractor** helpful for your studies and workflows, consider supporting the development:
+
+[![Buy Me a Book](https://img.shields.io/badge/Buy%20Me%20a%20Book-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sskhekhaliya)
+
+---
+
+## 📄 License & Credits
+
+- **Author**: [SSKhekhaliya](https://www.sskhekhaliya.in/)
+- **Support**: [buymeacoffee.com/sskhekhaliya](https://buymeacoffee.com/sskhekhaliya)
+- **Obsidian Companion Plugin**: [Obsidian Quiz Block](https://github.com/sskhekhaliya/obsidian-quiz-block)
